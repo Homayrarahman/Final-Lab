@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+ 
+ .main{  
+   width: 100%;  
+   margin: 10px 10px;
+   margin-left: 10px;   
+   display: flex;
+   flex-direction: column wrap;
+   
+}
+
+.main >div{
+   margin:10px;
+   background-color: rgb(97, 94, 94);  
+   width: 100%;
+   font-size: 20px;
+   border: 1px black solid;
+   padding: 5px;
+   border: 3px black solid;
+}
+
